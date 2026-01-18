@@ -1,1 +1,0 @@
-https://github.com/kurasaki-rufi/ono-tebe-nado-fd
