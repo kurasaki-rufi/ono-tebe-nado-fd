@@ -23,7 +23,7 @@
 }
 
 .header__links-list-item_no-bullit {
-  list-style: none; 
+  list-style: none;
 }
 
 .header__links-list-item {
@@ -36,7 +36,7 @@
 .header__logo {
   display: block;
   width: 136px;
-  height: 106px; 
+  height: 106px;
 }
 
 .header__logo-image {
@@ -74,9 +74,6 @@
   height: 757px;
   margin-bottom: 185px;
   background-color: rgb(255, 255, 255);
-}
-
-.cover {
   background-image: url('/images/cover.jpg');
   background-size: cover;
   background-position: center;
@@ -149,7 +146,7 @@
   word-spacing: 19px;
 }
 
-.bet-button{
+.bet-button {
   text-transform: uppercase;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
@@ -283,7 +280,7 @@
   margin-top: 35px;
   width: 240px;
   height: 240px;
-  border-radius: 50%; 
+  border-radius: 50%;
   background-color: rgba(0, 0, 0, 1);
 }
 
